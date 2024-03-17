@@ -7,8 +7,9 @@ Enthusiastic and motivated Computer Science student with a passion for software 
 Strong problem-solving skills with experience in programming, web development, and prototyping.
 Currently working on projects in Machine Learning and Data Science. Serving as the Technical Lead
 of GDSC IIITK chapter, demonstrating leadership and organizational abilities.
-<img  align="right" alt="çoding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 ## Projects
+<img  align="right" alt="çoding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ### Sales Performance Dashboard
 - Developed an interactive sales dashboard using Power BI
@@ -34,6 +35,7 @@ of GDSC IIITK chapter, demonstrating leadership and organizational abilities.
 
 - **Programming:** C, C++, Python, Java, PHP, JavaScript
 - **Web Development:** HTML, CSS, JavaScript
+- **Mobile Development:** Flutter
 - **Data Visualization:** Power BI
 - **Prototyping:** Figma
 - **Problem Solving:** Competitive Programming
