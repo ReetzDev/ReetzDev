@@ -6,7 +6,7 @@
 I'm currently pursuing my B.Tech in Computer Science and Engineering at Indian Institute of Information Technology Kottayam, with an expected graduation year of 2026.
 Enthusiastic and motivated Computer Science student with a passion for software development.
 Strong problem-solving skills with experience in programming, web development, and prototyping.
-Currently working on projects in Machine Learning and Data Science. Serving as the Technical Lead
+Currently working on projects in Data and Product Analytics and Development projects. Serving as the Technical Lead
 of GDSC IIITK chapter, demonstrating leadership and organizational abilities.
 
 ## Projects
