@@ -20,13 +20,12 @@ of GDSC IIITK chapter, demonstrating leadership and organizational abilities.
 - Built a responsive website with HTML, CSS, and JavaScript
 - Implemented backend functionality using Node.js and Express.js, integrating MongoDB for data storage
 
-### Movie Recommendation System
-- Developed a movie recommendation system using collaborative filtering techniques
-- Utilized Python libraries such as Pandas, NumPy, and Scikit-learn for data manipulation and modeling
-- Implemented a basic user interface with HTML, CSS, and JavaScript to collect user preferences
-- Preprocessed a movie rating dataset to remove noise and handle missing values
-- Trained a collaborative filtering model to predict movie ratings based on user behavior
-- Deployed the recommendation system on a local server for personal use
+### Opti-Task: Automated Employee Task Assignment System
+- Create and Manage Tasks: Define tasks with descriptions, required skills, and deadlines.
+- Automated Task Assignment: Gemini AI intelligently assigns tasks to the most suitable employees.
+- Real-Time Task Monitoring: Track task progress and reassign tasks if needed.
+- Developer Management: View available developers and their skills.
+
 
 ### Winterhacks Hackathon: Winner, GDSC IIITK
 - Developed competitive programming solutions using C++
